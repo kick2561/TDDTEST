@@ -1,0 +1,2 @@
+c:\Users\CB185249\source\repos\TDD\TDDTest\obj\Debug\TDDTest.csprojAssemblyReference.cache
+c:\Users\CB185249\source\repos\TDD\TDDTest\obj\Debug\TDDTest.csproj.CoreCompileInputs.cache
